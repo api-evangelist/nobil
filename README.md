@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NOBIL (Enova) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://nobil.no/
+NOBIL (Enova) provides a comprehensive API delivering real‑time and historical data on electric vehicle charging stations across Norway and other Nordic countries. The service offers information on station locations, availability, connector types, pricing, and operational status, supporting developers building EV navigation, fleet management, and energy‑grid applications. Data is sourced from public and private operators and is updated regularly to reflect changes in infrastructure and usage.
+
+**Areas:** EV · Charging · Energy · Data · Norway · Transportation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nobil.no/)
+- [Documentation](https://info.nobil.no/images/API_NOBIL_Documentation_v3_20260816.pdf)
+- [API reference](https://info.nobil.no/images/API_NOBIL_Documentation_v3_20260816.pdf)
+- [Support](https://info.nobil.no/kontakt)
+- [Blog](https://info.nobil.no/nyheter)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/nobil/](https://apis.io/providers/nobil/).
